@@ -1,0 +1,22 @@
+{
+  "Subjective": {
+    "Chief_Complaint": "Back pain, Neck pain, discomfort, pain, stiff",
+    "History_of_Present_Illness": "Patient involved in a motor vehicle accident. Reported head impact and acute neck/back pain. Severe symptoms lasted approximately 4 weeks, followed by improvement with physiotherapy."
+  },
+  "Objective": {
+    "Physical_Exam": "Full range of movement in neck and back; no tenderness; no signs of lasting damage.",
+    "Observations": null
+  },
+  "Assessment": {
+    "Diagnosis": "Whiplash injury",
+    "Severity": "Mild, improving"
+  },
+  "Plan": {
+    "Treatment": [
+      "10 physiotherapy sessions",
+      "Painkillers"
+    ],
+    "Follow-Up": "Return if symptoms worsen or persist."
+  },
+  "Prognosis": "Full recovery expected within six months of the accident"
+}

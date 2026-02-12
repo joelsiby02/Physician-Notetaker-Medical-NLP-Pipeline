@@ -1,0 +1,82 @@
+{
+  "Patient_Name": "Ms. Jones",
+  "Accident_Details": {
+    "Accident_Date": "September 1",
+    "Accident_Time": "12:30",
+    "Accident_Month_Reference": "last September",
+    "Mechanism": "Rear-end collision"
+  },
+  "Symptoms": [
+    "Back pain",
+    "Neck pain",
+    "discomfort",
+    "pain",
+    "stiff"
+  ],
+  "Diagnosis": "Whiplash injury",
+  "Treatment": [
+    "10 physiotherapy sessions",
+    "Painkillers"
+  ],
+  "Current_Status": "Occasional backache",
+  "Prognosis": "Full recovery expected within six months of the accident",
+  "Functional_Impact": {
+    "Time_Off_Work_Days": 7,
+    "Daily_Life_Impact": "Minimal; returned to usual routine after one week"
+  },
+  "HPI": "Patient involved in a motor vehicle accident. Reported head impact and acute neck/back pain. Severe symptoms lasted approximately 4 weeks, followed by improvement with physiotherapy.",
+  "Physical_Exam": "Full range of movement in neck and back; no tenderness; no signs of lasting damage.",
+  "Evidence": {
+    "Symptoms": [
+      {
+        "text": "discomfort",
+        "label": "Sign_symptom",
+        "score": 0.9999
+      },
+      {
+        "text": "pain",
+        "label": "Sign_symptom",
+        "score": 0.9999
+      },
+      {
+        "text": "pain",
+        "label": "Sign_symptom",
+        "score": 1.0
+      },
+      {
+        "text": "stiff",
+        "label": "Sign_symptom",
+        "score": 0.9999
+      },
+      {
+        "text": "pain",
+        "label": "Sign_symptom",
+        "score": 1.0
+      },
+      {
+        "text": "anxiety",
+        "label": "Sign_symptom",
+        "score": 0.9622
+      }
+    ],
+    "Diagnosis": [
+      {
+        "text": "whiplash",
+        "label": "Detailed_description",
+        "score": 0.8193
+      },
+      {
+        "text": "not constant",
+        "label": "Detailed_description",
+        "score": 0.9197
+      }
+    ],
+    "Treatment": [
+      {
+        "text": "pain",
+        "label": "Medication",
+        "score": 0.8315
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Sentiment": "Anxious",
+  "Sentiment_Model": {
+    "label": "NEGATIVE",
+    "score": 0.9958341121673584
+  },
+  "Intent": [
+    "Expressing gratitude",
+    "Reporting symptoms",
+    "Seeking reassurance"
+  ]
+}

@@ -1,0 +1,14 @@
+# Python == 3.12
+
+spacy==3.8.2
+transformers==4.45.2
+torch>=2.0.0
+keybert==0.8.5
+sentence-transformers==3.0.1
+scikit-learn==1.5.2
+pandas==2.2.2
+tqdm==4.66.5
+regex==2024.7.24
+click==8.1.7 
+typer==0.12.3
+# python -m spacy download en_core_web_trf
